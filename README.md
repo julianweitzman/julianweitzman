@@ -1,16 +1,33 @@
-### Hi there 👋
+# Julián Uriel Weitzman
+
+Estudiante de la especialidad de Informática en el colegio secundario ORT. Actualmente aprendiendo aspectos avanzados de C#.
+
+---
+
+## Sobre mí
+
+- Estudio en la especialidad de Informática del colegio secundario ORT.
+- Estoy aprendiendo aspectos avanzados de C#, como reflection y expression trees.
+- Me interesan la ciencia de datos, los sistemas operativos y el desarrollo backend.
+- Ubicación: Capital Federal, Argentina.
+
+## Tecnologías
+
+**Lenguajes:** C#
+
+**Herramientas:** Git, GitHub, SQL, Linux (terminal), Visual Studio
+
+**En aprendizaje:** Reflection y expression trees en C#
 
 <!--
-**julianweitzman/julianweitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proyectos
 
-Here are some ideas to get you started:
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [NOMBRE](URL) | [Descripción breve] | [Tecnologías] |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contacto
+
+- Correo: [TU CORREO]
+- LinkedIn: [URL]
 -->
